@@ -1,0 +1,19 @@
+{
+  "name": "goit-js-hw-12-countries",
+  "version": "1.0.0",
+  "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maylena1587/goit-js-hw-12-countries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maylena1587/goit-js-hw-12-countries/issues"
+  },
+  "homepage": "https://github.com/Maylena1587/goit-js-hw-12-countries#readme"
+}
