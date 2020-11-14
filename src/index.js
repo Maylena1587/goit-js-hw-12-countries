@@ -1,13 +1,13 @@
-// import './css/main.css';
-// import countriesApi from './js/fetchCountries';
-// import countryTpl from './templates/markupCountry.hbs';
-// import listContriesTpl from './templates/markupListContries.hbs';
+import './css/main.css';
+import countriesApi from './js/fetchCountries';
+import countryTpl from './templates/markupCountry.hbs';
+import listContriesTpl from './templates/markupListContries.hbs';
 
-// import { info, error } from '@pnotify/core';
-// import '@pnotify/core/dist/PNotify.css';
-// import '@pnotify/core/dist/BrightTheme.css';
+import { info, error } from '@pnotify/core';
+import '@pnotify/core/dist/PNotify.css';
+import '@pnotify/core/dist/BrightTheme.css';
 
-// const debounce = require('lodash.debounce');
+const debounce = require('lodash.debounce');
 let searchedCountry = '';
 
 const refs = {
